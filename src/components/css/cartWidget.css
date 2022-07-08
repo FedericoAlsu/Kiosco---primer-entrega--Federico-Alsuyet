@@ -1,0 +1,13 @@
+.btn-carrito{
+	width: 130px;
+}
+.btn-carrito img{
+	transition: width 0.15s ease-in;
+	width: 45% !important;
+}
+.img-logo{
+	width: 130px;
+}
+.btn-carrito:hover img{
+	width: 52% !important;
+}

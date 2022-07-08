@@ -1,0 +1,9 @@
+
+#navbar-kiosko li{
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 25px;
+}
+#navbar-kiosko li a:hover{
+	color: #009ED6;
+}
